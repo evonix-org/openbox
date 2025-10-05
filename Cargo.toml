@@ -1,0 +1,12 @@
+[package]
+name = "openbox"
+description = "The open-world automation game powered by your creativity."
+authors = ["evonix-org"]
+version = "0.0.0"
+edition = "2024"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+godot = "0.4.0"
