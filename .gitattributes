@@ -1,0 +1,13 @@
+# Text 
+* text=auto eol=lf
+
+# Image 
+*.png binary
+*.svg binary
+
+# Sound 
+*.ogg binary
+*.wav binary
+
+# Video 
+*.ogv binary

@@ -1,0 +1,11 @@
+# Godot
+.godot/
+!.godot/extension_list.cfg
+.nomedia
+.import/
+export.cfg
+export_credentials.cfg
+*.tmp
+
+# Rust
+target/
